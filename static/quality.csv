@@ -1,0 +1,6 @@
+quality,dmg_bonus,price_multiplier
+Rudimentary,-2,1
+Rustic,-1,2
+Normal,+0,5
+Notable,+1,25
+Exceptional,+2,100

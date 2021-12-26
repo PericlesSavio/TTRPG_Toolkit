@@ -1,0 +1,40 @@
+body {
+    font-family: 'MedievalSharp', cursive;
+    background-color: #222222;
+    color: #bbbbbb
+}
+
+button {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #555555;
+    color: #cccccc;
+    font-size: 20px;
+    font-size: 20px;
+    width: 100px;
+}
+
+.container {
+    margin-top: 20vh;
+    margin-bottom: 20vh;
+    height: 60vh;
+}
+
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.weapon {
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+p {
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 20px;
+}

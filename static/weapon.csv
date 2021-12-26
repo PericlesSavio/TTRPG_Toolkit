@@ -1,0 +1,11 @@
+weapon,range,dmg_type,size_short,size_medium,size_long
+Axe,melee,slashing,one hand,one hand,two hands
+Dagger,melee,piercing / slashing,one hand,one hand,two hands
+Hammer,melee,bludgeoning,one hand,one hand,two hands
+Mace,melee,bludgeoning,one hand,one hand,two hands
+Spear,melee,piercing,one hand,two hands,two hands
+Staff,melee,bludgeoning,one hand,one hand,two hands
+Sword,melee,slashing,one hand,one hand,two hands
+Bow,ranged,piercing,two hands,two hands,two hands
+Crossbow,ranged,piercing,two hands,two hands,two hands
+Sling,ranged,bludgeoning,one hand,one hand,two hands

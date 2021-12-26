@@ -1,0 +1,4 @@
+size,price_multiplier,damage_die
+Short,1,d4
+Medium,5,d6
+Long,10,d8

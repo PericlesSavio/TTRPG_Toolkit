@@ -1,0 +1,1 @@
+A simple weapon generator for TTRPGs in Python/Flask
