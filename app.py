@@ -38,4 +38,4 @@ def rpg():
         hand = hand,
         price = price)
 
-app.run(debug=True)
+app.run()
