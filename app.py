@@ -4,7 +4,7 @@ import pandas as pd
 
 app = Flask(__name__)
 
-@app.route('/', methods=['GET',])
+@app.route('/')
 def index():    
     #read csv
     weapon = pd.read_csv('static/weapon.csv')
