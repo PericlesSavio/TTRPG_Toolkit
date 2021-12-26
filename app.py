@@ -4,8 +4,7 @@ import pandas as pd
 
 app = Flask(__name__)
 
-@app.route('/')
-
+@app.route('/', methods=['GET',])
 def rpg():    
     #read csv
     weapon = pd.read_csv('static/weapon.csv')
