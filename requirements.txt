@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ----------------------
 # Flask
 # ----------------------
@@ -20,10 +19,3 @@ gunicorn
 
 numpy
 pandas
-=======
-Flask
-numpy
-pandas
-gunicorn
-gevent
->>>>>>> adc0dc6ec4f4da151d37e50e2745c57cc0bb4257
